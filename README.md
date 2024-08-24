@@ -1,6 +1,9 @@
 # bug-hunting-penetration-rgb-hat
 Bug Hunting Penetration RGB Hat are red, gray, and black hat
 
+## 🪴 Project Activity
+
+![Alt](https://repobeats.axiom.co/api/embed/8750a3da9626afd73da56b8becf9911e96781ada.svg "Repobeats analytics image")
 
 ## Star History
 
